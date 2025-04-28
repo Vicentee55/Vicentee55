@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+    ‹ Ola sou um Desenvolvedor Front-End ›
+</p>
+<br>
+    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Vicentee55!;Seja+bem-vindo(a)+ao+meu+perfil."/>
+<br>
+<p align="center">
+    <a href="#"><img width="7%" alt="Website" title="Website" src="https://i.imgur.com/eGQcBg7.png"/></a>
+</p>
 
-<!--
-**Vicentee55/Vicentee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><br>
 
-Here are some ideas to get you started:
+```zsh
+> oq eu sabo
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#"><img align="left" src="https://i.pinimg.com/736x/eb/ef/b8/ebefb86a12232450c271709dd24ce807.jpg" width="20%"/> 
+
+
+```lua
+Vicentee55
+▔▔▔▔▔▔▔▔▔
+OS: Windows 11 Revi Os
+Localizacao: Praia Grande - SP
+Estudante: HTML, CSS, JavaScript, Node.Js, Git
+Hobbies: love my gf
+IB: DarkMode
+```
+
+<br><br>
+
+[![oq eu sabo](https://skillicons.dev/icons?i=js,html,css,bash,git,nodejs)](https://skillicons.dev)
