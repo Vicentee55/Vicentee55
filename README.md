@@ -15,7 +15,7 @@
 > oq eu sabo
 ```
 
-<a href="#"><img align="left" src="https://i.pinimg.com/736x/eb/ef/b8/ebefb86a12232450c271709dd24ce807.jpg" width="20%"/> 
+<a href="#"><img align="left" src="https://i.pinimg.com/736x/9e/68/63/9e6863f8d4c399156e45d1aaf706f08a.jpg" width="20%"/> 
 
 
 ```lua
