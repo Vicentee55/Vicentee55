@@ -30,4 +30,4 @@ IB: DarkMode
 
 <br><br>
 
-[![oq eu sabo](https://skillicons.dev/icons?i=js,html,css,bash,git,nodejs)](https://skillicons.dev)
+[![oq eu sabo](https://skillicons.dev/icons?i=js,html,css,bash,git,nodejs,ps,pr,)](https://skillicons.dev)
