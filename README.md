@@ -21,7 +21,7 @@
 ```lua
 Vicentee55
 ▔▔▔▔▔▔▔▔▔
-OS: Windows 11 Revi Os
+OS: Windows 11 Atlas Os
 Localizacao: Praia Grande - SP
 Estudante: HTML, CSS, JavaScript, Node.Js, Git
 Hobbies: love my gf
